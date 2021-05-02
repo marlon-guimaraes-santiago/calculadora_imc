@@ -1,4 +1,5 @@
 # calc_imc
+![Screenshot_20210502-095812](https://user-images.githubusercontent.com/78705142/116815811-9ec10b80-ab35-11eb-9524-c0f2540e4081.png)
 
 A new Flutter application.
 
